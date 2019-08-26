@@ -6,6 +6,6 @@ This public repository contains data gathered through digital surveying techniqu
 <b>mnb_training_dataset.tsv</b>: holds the dataset used to train the multinomial Naive Bayes classifier.</br>
 <b>mnb_testing_dataset.tsv</b>: holds the dataset used to assess the classification accuracy of the multinomial Naive Bayes classifier.
 
-<h1>Liscense</h1>
+<h1>Copyright</h1>
 The dataset belongs to DMTC (Disaster Management Training Center).
 <b>Please cite the paper "Design and Implementation of a NLP-based Disaster Management System" in case of any usage.</b>
