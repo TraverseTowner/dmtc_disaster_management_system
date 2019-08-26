@@ -8,4 +8,4 @@ This public repository contains data gathered through digital surveying techniqu
 
 <h1>Liscense</h1>
 The dataset belongs to DMTC (Disaster Management Training Center).
-Please cite the paper "Design and Implementation of a NLP-based Disaster Management System" in case of any usage.
+<b>Please cite the paper "Design and Implementation of a NLP-based Disaster Management System" in case of any usage.</b>
